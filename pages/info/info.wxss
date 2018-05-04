@@ -1,0 +1,7 @@
+/* pages/info/info.wxss */
+.userinfo{
+  display: block;
+}
+text{
+  display: block;
+}

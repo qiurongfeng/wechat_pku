@@ -1,0 +1,8 @@
+<!--pages/info/info.wxml-->
+<view class='userinfo'>
+<text class='name'>姓名：xxxxxx</text>
+<text class='sex'>性别：xxxxxx</text>
+<text class='record'>记录：xxxxxx</text>
+<text>XXX：xxxxxx</text>
+<text>XXX：xxxxxx</text>
+</view>

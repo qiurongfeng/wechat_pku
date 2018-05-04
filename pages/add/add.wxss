@@ -1,0 +1,22 @@
+/* pages/add/add.wxss */
+.block{
+  width: 100%;
+  height: 270rpx;
+  border-style: solid solid solid solid;
+  border-color: #99FFFF;
+  background-color: #e8f0ee;
+  padding: 10rpx;
+  margin: 10rpx;
+}
+.title{
+  font-size: 150%;
+}
+.body{
+  display:block;
+}
+.confim{
+  float: left;
+}
+.cancel{
+  float: left;
+}

@@ -1,0 +1,21 @@
+<!--pages/add/add.wxml-->
+<view class='block'>
+<view class='title'>信息一</view>
+<text class='body'>信息一的内容</text>
+<button class='confim'>确认</button>
+<button class='cancel'>取消</button>
+</view>
+
+<view class='block'>
+<view class='title'>信息</view>
+<text class='body'>信息的内容</text>
+<button class='confim'>确认</button>
+<button class='cancel'>取消</button>
+</view>
+
+<view class='block'>
+<view class='title'>信息</view>
+<text class='body'>信息的内容</text>
+<button class='confim'>确认</button>
+<button class='cancel'>取消</button>
+</view>
